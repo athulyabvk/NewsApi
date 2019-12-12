@@ -1,0 +1,103 @@
+body {
+    background:rgb(230, 245, 248);
+    margin: 0;
+    padding: 0;
+}
+#mainheading, #time{ 
+    color: rgb(255, 0, 106);
+    font-size: 35px;
+}
+h1.display-5 {
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    margin: 10px 0;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+img {
+    width: 100%;
+    border: 1px solid #eee;
+    padding: 7px;
+    background: #fff;
+}
+#left{
+    background:#ccc;
+    margin: 10px 0px;
+    border-right: 2px solid rgba(4, 4, 100, 0.486);
+    padding: 10px;
+}
+.newsh1 {
+    color: rgb(57, 20, 219);
+    text-shadow: 1px 1px 1px rgb(118, 118, 221);
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    background: #fff;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.h1Title {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding: 13px 0px;
+}
+#right {
+    background:#ccc;
+    margin: 10px 0px;
+    border-left: 2px solid rgba(4, 4, 100, 0.486);
+    padding: 10px;
+}
+
+/*-------------Weather CSS------------------*/
+
+.card-body1 {
+    position: relative;
+}
+.card-body1 img {
+    width: 100px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+}
+
+#middleBlock {
+    background: #fff;
+}
+#middleBlock .newsh1 {
+    border-bottom: none;
+}
+#template{
+    background: skyblue;
+    box-shadow: inset 1px 1px 39px 1px #666;
+    color: rgb(187, 26, 139);
+    padding: 10px;
+    height: 178px;
+    margin: 18px;
+}
+a:hover {
+    color: rgb(207, 16, 16);
+    text-decoration: underline;
+}
+/*-------------------------------*/
+.topnews {
+    color: black;
+}
+.topnewss{
+    background: cornflowerblue;
+}
+
+
+
+
+
+
+
+
+
+
